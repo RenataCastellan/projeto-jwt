@@ -35,18 +35,13 @@ O objetivo é demonstrar o funcionamento completo de login com geração de toke
 ---
 # COMANDOS PARA RODAR O PROJETO
 
-Backend (`/server`)
-Dependências
 
-```bash
+Backend (`/server`)
 cd server
 npm install
 npm run dev
 
 FrontEnd (`/client`)
-Dependências
-
-```bash
 cd client
 npm install
 npm run dev
