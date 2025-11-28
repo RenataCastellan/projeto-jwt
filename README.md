@@ -37,11 +37,11 @@ O objetivo é demonstrar o funcionamento completo de login com geração de toke
 
 
 Backend (`/server`)
-cd server
-npm install
-npm run dev
+- cd server
+- npm install
+- npm run dev
 
 FrontEnd (`/client`)
-cd client
-npm install
-npm run dev
+- cd client
+- npm install
+- npm run dev
